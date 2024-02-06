@@ -64,6 +64,7 @@ pub const ALL_MODULES: &[&str] = &[
     "meson",
     "nim",
     "nix_shell",
+    "angular",
     "nodejs",
     "ocaml",
     "opa",
